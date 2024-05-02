@@ -1,4 +1,4 @@
-package org.example;
+package at.fhj.msd;
 
 public class Calculator {
     public static void main(String[] args) {
