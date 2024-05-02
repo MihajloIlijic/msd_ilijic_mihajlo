@@ -62,5 +62,6 @@ Author: Mihajlo Ilijic
 Date of the last update: 05.03.2024
 Contact: mihajlo.ilijic@edu.fh-joanneum.at
 +43 (0)660 857 0913
-
+Link to GitHub: https://github.com/MihajloIlijic/msd_ilijic_mihajlo/blob/main/exercise2.md
+Link to FH Joanneum: https://www.fh-joanneum.at/
         
