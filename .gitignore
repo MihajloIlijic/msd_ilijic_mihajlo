@@ -1,2 +1,4 @@
-*.pdf
 *.html
+*.pdf
+.idea
+target
