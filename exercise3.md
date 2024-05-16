@@ -1,6 +1,6 @@
 # Exercise3
 
-![Calculator](media/Calculator.png)
+![Calculator](resources/images/Calculator.png)
 ## Beschreibung
 Es wurden 4 Methoden für die 4 Haupt-Operationen erstellt mit 
 je zwei Übergabeparametern. Die Zahlen die für die Berechnungen 

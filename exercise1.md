@@ -1,6 +1,6 @@
 # exercise1
 ## Method example in java
-![Method example in java](media/ReadNumber.png)
+![Method example in java](resources/images/ReadNumber.png)
 Methods which have the functionality of reading int numbers or String are 
 often implemented in a code.
 ## Methods in general
@@ -8,7 +8,7 @@ Methods are used in progarmming with the idea of using a function multiple times
 ## More about methods
 Despite the methods which return values like it is the case in the previous
 shown ReadNumber method, method can also just display results:
-![VoidMethod](media/VoidMethod.png)
+![VoidMethod](resources/images/VoidMethod.png)
 ### Author
 Author: Mihajlo Ilijic
 Contact: mihajlo.ilijic@edu.fh-joanneum.at
