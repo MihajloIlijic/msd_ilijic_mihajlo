@@ -10,5 +10,8 @@ ausgegeben. Man kann noch eventuell mögliche Ergebnisse im Kopf
 ausrechnen und dann mit der Ausgabe auf der Konsole vergleichen.
 ![Screenshot 1](resources/images/ex3_1.png)
 Der 'target' Ordner wurde automatisch hinzugefügt.
-![Screenshot 1](resources/images/ex3_2.png)
+![Screenshot 2](resources/images/ex3_2.png)
 Durch mvn compile wurde die das Projekt versioniert.
+![Screenshot 3](resources/images/ex3_3.png)
+Dabei wird die Ausgabe der Main Klasse in der Command Line 
+ausgegeben.
