@@ -8,3 +8,7 @@ verwendet werden , werden manuell eingegeben. Die Ergebnisse
 werden als double-Werte über System.out.print auf der Konsole 
 ausgegeben. Man kann noch eventuell mögliche Ergebnisse im Kopf 
 ausrechnen und dann mit der Ausgabe auf der Konsole vergleichen.
+![Screenshot 1](resources/images/ex3_1.png)
+Der 'target' Ordner wurde automatisch hinzugefügt.
+![Screenshot 1](resources/images/ex3_2.png)
+Durch mvn compile wurde die das Projekt versioniert.
