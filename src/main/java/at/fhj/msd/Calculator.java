@@ -27,4 +27,23 @@ public class Calculator {
         }
 
     }
+    public int faculty(int number){
+
+        int result = 1;
+
+       if (number > 1){
+           for (int i = number; i > 1;i--){
+
+               result *= i;
+
+
+           }
+       } else if (number == 1) {
+           result = number;
+       }
+       else {
+           return 0;
+       }
+       return result;
+    }
 }

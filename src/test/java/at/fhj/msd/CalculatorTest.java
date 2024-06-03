@@ -72,5 +72,16 @@ public class CalculatorTest {
 
     }
 
+    @Test
+    public void facultyTest ( ){
+        final int expected_result_1 = 120;
+        final int expected_result_2 = 0;
+        final int expected_result_3 = 6;
+
+        assertEquals(expected_result_1, calc.faculty(5), 0.01);
+        assertEquals(expected_result_2, calc.faculty(-2), 0.01);
+        assertEquals(expected_result_3, calc.faculty(3), 0.01);
+    }
+
 
 }
