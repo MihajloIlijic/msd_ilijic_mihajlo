@@ -28,7 +28,7 @@ public class Calculator {
 
     }
     public int faculty(int number){
-/*
+
         int result = 1;
 
        if (number > 1){
@@ -45,8 +45,5 @@ public class Calculator {
            return 0;
        }
        return result;
-       */
-        return 0;
     }
-
 }
