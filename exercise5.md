@@ -12,6 +12,9 @@ Branch 'logging' befinde und dass Änderungen in der pom.xml durchgeführt wurde
 
 ### Aufgabe 4
 
+![](resources/images/ex5_4.png)
 
+- hier ist wieder ersichtlich, dass ich mich im Branch 'dokumentation' befinde und 
+die MarkDown Datei verändert bzw. erstellt habe.
 
 
