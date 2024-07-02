@@ -1,6 +1,13 @@
+
+
+
 package at.fhj.msd;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class Main {
+
+    public static Logger logger = LogManager.getLogger(Main.class);
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         double result_1 = calculator.add(32, 3);
@@ -14,5 +21,13 @@ public class Main {
         System.out.println(result_4);
         System.out.println(faculty);
         System.out.println("Mihajlo Ilijic");
+
+        logger.info("Das ist eine Info");
+        logger.error("Das ist ein Error");
+
+
+
+
+
     }
 }
