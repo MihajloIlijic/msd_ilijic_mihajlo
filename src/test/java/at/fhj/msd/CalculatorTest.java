@@ -6,7 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
+import static org.junit.jupiter.api.Assertions.assertThrows;
 public class CalculatorTest {
 
     /*
@@ -69,6 +69,10 @@ public class CalculatorTest {
         assertEquals(expected_quotient_1, calc.divide(36, 6), 0.01);
         assertEquals(expected_quotient_2, calc.divide(36, 12), 0.01);
         assertEquals(expected_quotient_3, calc.divide(20, 4), 0.01);
+
+        assertThrows(ArithmeticException.class, () -> {
+            calc.divide(5, 0);
+        });
 
     }
 
