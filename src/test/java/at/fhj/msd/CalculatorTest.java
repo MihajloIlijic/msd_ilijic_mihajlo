@@ -19,6 +19,8 @@ public class CalculatorTest {
      * 3 testcases for the addition method
      */
 
+    
+
     @Test
     public void calculatorAddition() {
         final double expected_sum_1 = 25;
