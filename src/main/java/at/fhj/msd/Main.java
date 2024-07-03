@@ -1,6 +1,13 @@
 package at.fhj.msd;
 
+
 public class Main {
+
+    /**
+     * Implementing the methods for arithmetic operations from the calculator class. Manually adding the
+     * parameters for the methods and making output statements for the console.
+     * @param args is not used for the specific task
+     */
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         double result_1 = calculator.add(32, 3);
