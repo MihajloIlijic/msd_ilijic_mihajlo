@@ -4,7 +4,9 @@
     <body>
         <menu name="Overview">
             <item name="Introduction" href="index.html"/>
-            <item name="good_style" href="good_style.html"/>
+
+            <item name="Good style" href="good_style.html"/>
+
 
         </menu>
         <menu ref="reports"/>
